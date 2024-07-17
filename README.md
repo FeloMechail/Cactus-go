@@ -21,10 +21,14 @@ cactus-go is a Go implementation of a poker hand evaluator. It is based on the [
     ```sh
     cd Cactus-go
     ```
-3. Run the project:
+3. Create go module:
     ```sh
-    go run .
+    go mod init poker
     ```
+4. Run the project:
+   ```sh
+   go run .
+   ```
 
 ## Functions
 
